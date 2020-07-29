@@ -1,0 +1,7 @@
+# H4_MobLocation - Desenvolvido por Nospher#9995
+# freeze_mobs: O mob não irá se mexer se ele tiver com a localização setada no /f setspawn
+# permission: io.github.nosphery.moblocation.commands.setspawn - /f setspawn
+
+settings:
+  general:
+    freeze_mobs: true

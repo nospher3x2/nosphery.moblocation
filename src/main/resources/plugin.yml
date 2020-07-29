@@ -1,0 +1,7 @@
+name: nosphery.MobLocation
+main: io.github.nosphery.moblocation.MobLocationPlugin
+version: 1.0-SNAPSHOT
+author: oNospher
+website: twitter.com/ryannospherys
+depends: [MassiveCore, Factions]
+load: POSTWORLD
